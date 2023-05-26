@@ -139,7 +139,7 @@ function determineSedCommand
 
 function cloneTinkerPython
 {
-    git clone https://github.com/bunq/tinker_python.git .
+    git clone https://github.com/wwbijen/tinker_python.git .
     git checkout master
 }
 
